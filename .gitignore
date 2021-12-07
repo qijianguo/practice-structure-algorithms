@@ -103,3 +103,6 @@ $RECYCLE.BIN/
 
 data/
 log.*
+src/main/java/com/qijianguo/algorithms/muti/MapTest.java
+src/main/java/com/qijianguo/algorithms/part02/
+src/test/
